@@ -1,6 +1,7 @@
-CS+CE/
-hello
+*
+!*/
+!*.*
 *.o
+CS+CE/
 .idea/
 .vscode/
-D4/mathtest
