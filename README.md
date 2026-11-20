@@ -24,6 +24,7 @@
 | 9 | أوامر Linux وأول سكربت Bash | [D9](D9/) |
 | 10 | مسار Linux على سطر (10 دورات) | — |
 | 11 | Mario: nested loops و do while | [D11](D11/) |
+| 12 | Operators و truncation و type casting | [D12](D12/) |
 
 ## التشغيل
 
